@@ -61,7 +61,7 @@
 			<url>https://repo.maven.apache.org/maven2</url>
 			<layout>default</layout>
 			<snapshots>
-				<enabled>true</enabled>
+				<enabled>false</enabled>
 			</snapshots>
 			<releases>
 				<updatePolicy>never</updatePolicy>
@@ -75,7 +75,7 @@
 			<url>https://repo.maven.apache.org/maven2</url>
 			<layout>default</layout>
 			<snapshots>
-				<enabled>true</enabled>
+				<enabled>false</enabled>
 			</snapshots>
 		</repository>
 	</repositories>
